@@ -1,4 +1,5 @@
 Emotion-Aware Speech Recognition:
+
 This project uses a combination of audio and facial emotion recognition to analyze the mood or emotion of a speaker in an audio or video clip. The project uses Whisper for speech-to-text transcription, while also using a pre-trained emotion recognition model (Mini-XCEPTION) for facial expressions and audio features like MFCC and pitch for emotion classification.
 
 Features
