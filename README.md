@@ -26,9 +26,7 @@ Install dependencies using the command above.
 
 Download the pre-trained emotion model:
 
-The model is a Mini-XCEPTION model trained on the FER2013 dataset. Download it using:
-
-wget https://github.com/oarriaga/face_classification/raw/master/trained_models/emotion_models/fer2013_mini_XCEPTION.102-0.66.hdf5 -O emotion_model.h5 Upload video or image files to analyze the emotion. Supported file types:
+The model is a Mini-XCEPTION model trained on the FER2013 dataset will be downloaded if needed then  Upload video or image files to analyze the emotion. Supported file types:
 
 Audio: .mp3, .wav
 
